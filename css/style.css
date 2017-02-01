@@ -1,0 +1,32 @@
+ .tall
+ {
+	 height:900px;
+ }
+ 
+ .dark
+ {
+	  background-color:black;
+	   height:300px;
+ }
+ 
+ .light
+ {
+	 background-image: url(../img/bg6.jpg);
+	 background-size:100% 100%;
+	 
+ }
+ 
+ body
+ {
+	 
+ }
+ 
+ 
+  @media screen and (min-width: 1000px) {
+    .dark
+{
+	 height:900px;
+	padding:20px;
+}
+
+}
